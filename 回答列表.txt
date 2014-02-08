@@ -1,4 +1,4 @@
-知乎用户@佐藤謙一 先生的回答列表：
+﻿知乎用户@佐藤謙一 先生的回答列表：
 是否收集 问题地址 问题标题
 √ http://www.zhihu.com/question/19845883 很多民族都侵略过中国，为何中国人最恨日本人？
 √ http://www.zhihu.com/question/19807883 淘宝上有爱马仕的东西卖，价格比专卖店便宜很多，真的假的？
@@ -52,3 +52,5 @@ http://www.zhihu.com/question/22670550 如何和日本人成为真心朋友？
 √ http://www.zhihu.com/question/20320030 日本为什么能把禅宗发扬得这么好？
 √ http://www.zhihu.com/question/20061794 日剧里面人物吃东西的时候经常会说“おいしい”，那些食物真的有那么好吃吗？
 √ http://www.zhihu.com/question/21675526 朱元璋为什么把皇位传给孙子？
+√ http://www.zhihu.com/question/20515249 那些掌握多国语言的人听说能力都怎么样？
+√ http://www.zhihu.com/question/20536577 如何看待南泉斩猫这宗公案？
