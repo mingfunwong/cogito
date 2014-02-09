@@ -7,7 +7,7 @@
 √ http://www.zhihu.com/question/21064952 买东西时遭遇怀疑你消费能力且不愿意搭理你的服务员或导购该如何应对？
 √ http://www.zhihu.com/question/22538124 从佛家的角度怎么看待「优越感」？
 √ http://www.zhihu.com/question/20525055 村上春树在爵士乐方面的鉴赏水平和演奏究竟如何？
-× http://www.zhihu.com/question/22670550 如何和日本人成为真心朋友？
+√ http://www.zhihu.com/question/22670550 如何和日本人成为真心朋友？
 √ http://www.zhihu.com/question/21287435 既然人生处处有风景，为何非得不断前行？
 √ http://www.zhihu.com/question/20199946 哲学是什么？
 √ http://www.zhihu.com/question/19888836 中华民国到什么时候为止？
@@ -63,3 +63,59 @@
 × http://www.zhihu.com/question/19646229 为什么宋朝军事那么弱，经过短暂的元朝后，会有明初那么强大的军事力量，基本将蒙古毁掉？
 √ http://www.zhihu.com/question/19786954 电视电影里开啤酒的时候简单的拧一下，或者用指甲撬下瓶盖就能轻松打开，是因为啤酒瓶盖的制作或力气大，还是仅仅为了效果？
 √ http://www.zhihu.com/question/21069787 对 22 岁的人来说，在 30 岁以前掌握英语、法语、西班牙语、俄语四门语言能实现么？
+√ http://www.zhihu.com/question/21661229 最好的寿司，味道能好到什么程度？
+√ http://www.zhihu.com/question/21419460 日本人喜欢吃生鲜的食物，都做检验检疫了吗？他们怎样避免寄生虫病？
+√ http://www.zhihu.com/question/20390290 为什么英国人尚未废除君主立宪制度？
+√ http://www.zhihu.com/question/20779802 什么是「日式中文」？
+http://www.zhihu.com/question/21345452 米其林餐厅评价标准是什么？
+http://www.zhihu.com/question/22315872 头等舱的看书，公务舱的看杂志、办公，经济舱则看报纸电影玩游戏聊天的多。这现象是真的么？很能说明问题么？
+http://www.zhihu.com/question/21583635 你亲身经历见过有什么特异功能的人吗?
+http://www.zhihu.com/question/22191979 一个真正的佛教徒应该是怎么样的？
+http://www.zhihu.com/question/21733740 母语非汉语者，学会汉语之前，对“陌生的汉语”的第一印象是怎样的？
+http://www.zhihu.com/question/22055721 你实践过哪些成功做菜的秘诀或诀窍？
+http://www.zhihu.com/question/19607370 为什么会有很多人向往着去西藏旅游？
+http://www.zhihu.com/question/21955877 如何看待张悬在其曼城演唱会上展示粉丝的青天白日满地红旗的行为，以及她对听众意见的回应？
+http://www.zhihu.com/question/19638756 关于上帝存在的证明有哪些？
+http://www.zhihu.com/question/20812344 如果你是李开复微博的第 3000 万个粉丝，你会选择吃饭还是要苹果产品？为什么？
+http://www.zhihu.com/question/20346204 日本人一般在什么时候穿和服？
+http://www.zhihu.com/question/21669411 日本的「古事记」高度如何？
+http://www.zhihu.com/question/21508743 如何评价the bridge这个品牌，它和LV的区别在哪里？
+http://www.zhihu.com/question/20017904 佛与人心如何契约？
+http://www.zhihu.com/question/21573022 「佐藤谦一」的读音是什么？
+http://www.zhihu.com/question/21239204 哪种红茶最好喝？
+http://www.zhihu.com/question/20648101 哲学与神学有什么关系？
+http://www.zhihu.com/question/21729220 你听到过最蠢的一句话是什么？
+http://www.zhihu.com/question/21713024 中国的洋务运动与日本的明治维新几乎是同时的，为什么他们成功了，我们失败了？从中我们能获得什么样的启发？
+http://www.zhihu.com/question/19587958 哪些情况下，中英夹杂的表达不会让人讨厌？
+http://www.zhihu.com/question/20167886 中国茶道和茶艺有什么的区别？
+http://www.zhihu.com/question/19631049 书面写作时应否坚持区分「的、地、得」？
+http://www.zhihu.com/question/21491580 清朝皇族后裔现在的生存状况是怎么样的？
+http://www.zhihu.com/question/21430303 为什么日本人一回家就说「我回来了」？
+http://www.zhihu.com/question/20349558 如何理解“一千个人眼中有一千个哈姆雷特”？怎样还原作者脑中真实的想法？
+http://www.zhihu.com/question/19756920 没有宗教信仰是否是现在很多中国人感到不幸福的原因？
+http://www.zhihu.com/question/20202746 腿酸和食物酸是两种不同感官体验，那为什么都用＂酸＂呢？ 是从生化角度两者产生有相同还是词源上有所讲究？
+http://www.zhihu.com/question/20642197 中国的书法发展现状是否逊于日本？
+http://www.zhihu.com/question/20557347 Ponziano Loverini 的油画「S. Grata che raccoglie le spoglie di S. Alessandro」描述了天主教史的哪个典故？
+http://www.zhihu.com/question/20525905 @佐藤谦一和@右丑是同一个人吗？
+http://www.zhihu.com/question/21419460 日本人喜欢吃生鲜的食物，都做检验检疫了吗？他们怎样避免寄生虫病？
+http://www.zhihu.com/question/20513400 为何 @佐藤謙一 君惯用文言文，而非白話文？
+http://www.zhihu.com/question/20514290 汉语里有与《低俗小说》中塞缪尔·杰克逊杀人前念的那段祷词气势仿佛的狠话吗？
+http://www.zhihu.com/question/20149228 「欧洲各语言都属屈折语，日韩语最低级属粘着­语。中文是发展最高级的语言，典型的孤立语。」这段关于孤立语比粘着语高级的看法是公认的吗？
+http://www.zhihu.com/question/20595340 知乎应如何尊重用户对弯引号的使用习惯？公共编辑区域应该使用哪种引号？
+http://www.zhihu.com/question/20698624 你在9-13岁的时候听什么音乐？对你现在的音乐品位有什么影响？
+http://www.zhihu.com/question/21168461 如何选择好的尺八？
+http://www.zhihu.com/question/21164338 领带夹怎么用？
+http://www.zhihu.com/question/19840102 「无我」是怎样一种境界？
+http://www.zhihu.com/question/20889381 哪里可以找到莎士比亚的十四行诗的诵读视频或录音？
+http://www.zhihu.com/question/21348330 我的字很差吗？
+http://www.zhihu.com/question/21195558 中国历史上有哪些著名的反派人物写出的高水平诗句？或者有哪些反派人物满腹才华？
+http://www.zhihu.com/question/21170067 Emporio Armani这个牌子是什么情况？
+http://www.zhihu.com/question/21165072 中国建筑中，「门槛」的作用是什么？
+http://www.zhihu.com/question/20237124 你有哪些关于南京话的有趣记忆？
+http://www.zhihu.com/question/19610719 听古典音乐会，在第一乐章结束后鼓掌是不可接受的吗？
+http://www.zhihu.com/question/21026969 作为一个刚刚接受自己性取向的同性恋，有哪些事情是应该做的？
+http://www.zhihu.com/question/20995544 为什么女生需要那么多鞋子？
+http://www.zhihu.com/question/20959536 哪些东西吃了之后，会让人幸福感提升而感觉相见恨晚？
+http://www.zhihu.com/question/20919333 西服和礼服，除穿着场合外有什么区别？
+http://www.zhihu.com/question/20084998 从禅的角度来看乔布斯是否得「道」？
+http://www.zhihu.com/question/20598046 如何看待知乎上由于引号的规范问题而出现的争论？
