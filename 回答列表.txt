@@ -1,4 +1,4 @@
-﻿知乎用户@佐藤謙一 先生的回答列表：
+﻿知乎用户@佐藤謙一 先生的回答列表
 是否收集 问题地址 问题标题
 √ http://www.zhihu.com/question/19845883 很多民族都侵略过中国，为何中国人最恨日本人？
 √ http://www.zhihu.com/question/19807883 淘宝上有爱马仕的东西卖，价格比专卖店便宜很多，真的假的？
@@ -75,6 +75,10 @@
 √ http://www.zhihu.com/question/20698624 你在9-13岁的时候听什么音乐？对你现在的音乐品位有什么影响？
 √ http://www.zhihu.com/question/21168461 如何选择好的尺八？
 √ http://www.zhihu.com/question/20084998 从禅的角度来看乔布斯是否得「道」？
+√ http://www.zhihu.com/question/21491580 清朝皇族后裔现在的生存状况是怎么样的？
+√ http://www.zhihu.com/question/20349558 如何理解“一千个人眼中有一千个哈姆雷特”？怎样还原作者脑中真实的想法？
+√ http://www.zhihu.com/question/19756920 没有宗教信仰是否是现在很多中国人感到不幸福的原因？
+√ http://www.zhihu.com/question/20202746 腿酸和食物酸是两种不同感官体验，那为什么都用＂酸＂呢？ 是从生化角度两者产生有相同还是词源上有所讲究？
 × http://www.zhihu.com/question/19784200 为什么中国古代建筑一直偏好木材，而不是更为坚固的石料或者泥土？
 × http://www.zhihu.com/question/20545943 如何看待「共济会」这个「真实」的「传说」？
 × http://www.zhihu.com/question/19646229 为什么宋朝军事那么弱，经过短暂的元朝后，会有明初那么强大的军事力量，基本将蒙古毁掉？
@@ -97,11 +101,7 @@ http://www.zhihu.com/question/20648101 哲学与神学有什么关系？
 http://www.zhihu.com/question/21729220 你听到过最蠢的一句话是什么？
 http://www.zhihu.com/question/21713024 中国的洋务运动与日本的明治维新几乎是同时的，为什么他们成功了，我们失败了？从中我们能获得什么样的启发？
 http://www.zhihu.com/question/19587958 哪些情况下，中英夹杂的表达不会让人讨厌？
-http://www.zhihu.com/question/21491580 清朝皇族后裔现在的生存状况是怎么样的？
 http://www.zhihu.com/question/21430303 为什么日本人一回家就说「我回来了」？
-http://www.zhihu.com/question/20349558 如何理解“一千个人眼中有一千个哈姆雷特”？怎样还原作者脑中真实的想法？
-http://www.zhihu.com/question/19756920 没有宗教信仰是否是现在很多中国人感到不幸福的原因？
-http://www.zhihu.com/question/20202746 腿酸和食物酸是两种不同感官体验，那为什么都用＂酸＂呢？ 是从生化角度两者产生有相同还是词源上有所讲究？
 http://www.zhihu.com/question/20557347 Ponziano Loverini 的油画「S. Grata che raccoglie le spoglie di S. Alessandro」描述了天主教史的哪个典故？
 http://www.zhihu.com/question/20525905 @佐藤谦一和@右丑是同一个人吗？
 http://www.zhihu.com/question/21419460 日本人喜欢吃生鲜的食物，都做检验检疫了吗？他们怎样避免寄生虫病？
