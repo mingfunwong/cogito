@@ -79,6 +79,11 @@
 √ http://www.zhihu.com/question/20349558 如何理解“一千个人眼中有一千个哈姆雷特”？怎样还原作者脑中真实的想法？
 √ http://www.zhihu.com/question/19756920 没有宗教信仰是否是现在很多中国人感到不幸福的原因？
 √ http://www.zhihu.com/question/20202746 腿酸和食物酸是两种不同感官体验，那为什么都用＂酸＂呢？ 是从生化角度两者产生有相同还是词源上有所讲究？
+√ http://www.zhihu.com/question/20812344 如果你是李开复微博的第 3000 万个粉丝，你会选择吃饭还是要苹果产品？为什么？
+√ http://www.zhihu.com/question/21669411 日本的「古事记」高度如何？
+√ http://www.zhihu.com/question/21508743 如何评价the bridge这个品牌，它和LV的区别在哪里？
+√ http://www.zhihu.com/question/20889381 哪里可以找到莎士比亚的十四行诗的诵读视频或录音？
+√ http://www.zhihu.com/question/21164338 领带夹怎么用？
 × http://www.zhihu.com/question/19784200 为什么中国古代建筑一直偏好木材，而不是更为坚固的石料或者泥土？
 × http://www.zhihu.com/question/20545943 如何看待「共济会」这个「真实」的「传说」？
 × http://www.zhihu.com/question/19646229 为什么宋朝军事那么弱，经过短暂的元朝后，会有明初那么强大的军事力量，基本将蒙古毁掉？
@@ -92,9 +97,6 @@ http://www.zhihu.com/question/21733740 母语非汉语者，学会汉语之前�
 http://www.zhihu.com/question/22055721 你实践过哪些成功做菜的秘诀或诀窍？
 http://www.zhihu.com/question/19607370 为什么会有很多人向往着去西藏旅游？
 http://www.zhihu.com/question/21955877 如何看待张悬在其曼城演唱会上展示粉丝的青天白日满地红旗的行为，以及她对听众意见的回应？
-http://www.zhihu.com/question/20812344 如果你是李开复微博的第 3000 万个粉丝，你会选择吃饭还是要苹果产品？为什么？
-http://www.zhihu.com/question/21669411 日本的「古事记」高度如何？
-http://www.zhihu.com/question/21508743 如何评价the bridge这个品牌，它和LV的区别在哪里？
 http://www.zhihu.com/question/21573022 「佐藤谦一」的读音是什么？
 http://www.zhihu.com/question/21239204 哪种红茶最好喝？
 http://www.zhihu.com/question/20648101 哲学与神学有什么关系？
@@ -105,9 +107,7 @@ http://www.zhihu.com/question/21430303 为什么日本人一回家就说「我�
 http://www.zhihu.com/question/20557347 Ponziano Loverini 的油画「S. Grata che raccoglie le spoglie di S. Alessandro」描述了天主教史的哪个典故？
 http://www.zhihu.com/question/20525905 @佐藤谦一和@右丑是同一个人吗？
 http://www.zhihu.com/question/21419460 日本人喜欢吃生鲜的食物，都做检验检疫了吗？他们怎样避免寄生虫病？
-http://www.zhihu.com/question/21164338 领带夹怎么用？
 http://www.zhihu.com/question/19840102 「无我」是怎样一种境界？
-http://www.zhihu.com/question/20889381 哪里可以找到莎士比亚的十四行诗的诵读视频或录音？
 http://www.zhihu.com/question/21348330 我的字很差吗？
 http://www.zhihu.com/question/21195558 中国历史上有哪些著名的反派人物写出的高水平诗句？或者有哪些反派人物满腹才华？
 http://www.zhihu.com/question/21170067 Emporio Armani这个牌子是什么情况？
