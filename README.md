@@ -84,5 +84,5 @@
 <p><a href="https://github.com/mingfunwong/cogito/blob/master/%e6%9c%aa%e7%9f%a5%e6%97%b6%e9%97%b4%20%e4%bd%a0%e5%9c%a89-13%e5%b2%81%e7%9a%84%e6%97%b6%e5%80%99%e5%90%ac%e4%bb%80%e4%b9%88%e9%9f%b3%e4%b9%90%ef%bc%9f%e5%af%b9%e4%bd%a0%e7%8e%b0%e5%9c%a8%e7%9a%84%e9%9f%b3%e4%b9%90%e5%93%81%e4%bd%8d%e6%9c%89%e4%bb%80%e4%b9%88%e5%bd%b1%e5%93%8d%ef%bc%9f.md"> 未知时间 你在9-13岁的时候听什么音乐？对你现在的音乐品位有什么影响？</a></p>
 <p><a href="https://github.com/mingfunwong/cogito/blob/master/%e6%9c%aa%e7%9f%a5%e6%97%b6%e9%97%b4%20%e6%b1%89%e8%af%ad%e9%87%8c%e6%9c%89%e4%b8%8e%e3%80%8a%e4%bd%8e%e4%bf%97%e5%b0%8f%e8%af%b4%e3%80%8b%e4%b8%ad%e5%a1%9e%e7%bc%aa%e5%b0%94%c2%b7%e6%9d%b0%e5%85%8b%e9%80%8a%e6%9d%80%e4%ba%ba%e5%89%8d%e5%bf%b5%e7%9a%84%e9%82%a3%e6%ae%b5%e7%a5%b7%e8%af%8d%e6%b0%94%e5%8a%bf%e4%bb%bf%e4%bd%9b%e7%9a%84%e7%8b%a0%e8%af%9d%e5%90%97%ef%bc%9f.md"> 未知时间 汉语里有与《低俗小说》中塞缪尔·杰克逊杀人前念的那段祷词气势仿佛的狠话吗？</a></p>
 </ul>
-<p>所有回答下载地址：<a href="https://github.com/mingfunwong/cogito/archive/master.zip">https://github.com/mingfunwong/cogito/archive/master.zip</a></p>
-<p>提交未收录的回答/更新回答：<a href="https://github.com/mingfunwong/cogito/issues/new">https://github.com/mingfunwong/cogito/issues/new</a></p>
+<p>下载地址：<a href="https://github.com/mingfunwong/cogito/archive/master.zip">https://github.com/mingfunwong/cogito/archive/master.zip</a></p>
+<p>提交/更新回答：<a href="https://github.com/mingfunwong/cogito/issues/new">https://github.com/mingfunwong/cogito/issues/new</a></p>
