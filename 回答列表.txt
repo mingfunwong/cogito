@@ -84,9 +84,10 @@
 √ http://www.zhihu.com/question/21508743 如何评价the bridge这个品牌，它和LV的区别在哪里？
 √ http://www.zhihu.com/question/20889381 哪里可以找到莎士比亚的十四行诗的诵读视频或录音？
 √ http://www.zhihu.com/question/21164338 领带夹怎么用？
+√ http://www.zhihu.com/question/20557347 Ponziano Loverini 的油画「S. Grata che raccoglie le spoglie di S. Alessandro」描述了天主教史的哪个典故？
+√ http://www.zhihu.com/question/19646229 为什么宋朝军事那么弱，经过短暂的元朝后，会有明初那么强大的军事力量，基本将蒙古毁掉？
 × http://www.zhihu.com/question/19784200 为什么中国古代建筑一直偏好木材，而不是更为坚固的石料或者泥土？
 × http://www.zhihu.com/question/20545943 如何看待「共济会」这个「真实」的「传说」？
-× http://www.zhihu.com/question/19646229 为什么宋朝军事那么弱，经过短暂的元朝后，会有明初那么强大的军事力量，基本将蒙古毁掉？
 × http://www.zhihu.com/question/20586607 农历十一月为什么被称为冬月？
 × http://www.zhihu.com/question/19946806 死亡是一瞬间的事吗？
 × http://www.zhihu.com/question/21345452 米其林餐厅评价标准是什么？
@@ -104,7 +105,6 @@
 × http://www.zhihu.com/question/21713024 中国的洋务运动与日本的明治维新几乎是同时的，为什么他们成功了，我们失败了？从中我们能获得什么样的启发？
 × http://www.zhihu.com/question/19587958 哪些情况下，中英夹杂的表达不会让人讨厌？
 × http://www.zhihu.com/question/21430303 为什么日本人一回家就说「我回来了」？
-× http://www.zhihu.com/question/20557347 Ponziano Loverini 的油画「S. Grata che raccoglie le spoglie di S. Alessandro」描述了天主教史的哪个典故？
 × http://www.zhihu.com/question/20525905 @佐藤谦一和@右丑是同一个人吗？
 × http://www.zhihu.com/question/21419460 日本人喜欢吃生鲜的食物，都做检验检疫了吗？他们怎样避免寄生虫病？
 × http://www.zhihu.com/question/19840102 「无我」是怎样一种境界？
