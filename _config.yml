@@ -1,0 +1,8 @@
+title: Cogito
+description: 收集知乎用户@佐藤謙一 先生回答84个
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
